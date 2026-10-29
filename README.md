@@ -1,4 +1,4 @@
-# Auto-MPG
+[auto_mpg_practice (2).ipynb](https://github.com/user-attachments/files/34144435/auto_mpg_practice.2.ipynb)
 {
   "cells": [
     {
